@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Ejemplos-Csharp\PrincipioSOLID\obj\Debug\PrincipioSOLID.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Ejemplos-Csharp\PrincipioSOLID\obj\Debug\PrincipioSOLID.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Ejemplos-Csharp\PrincipioSOLID\bin\Debug\PrincipioSOLID.exe.config
+C:\Users\Lenovo\Desktop\Ejemplos-Csharp\PrincipioSOLID\bin\Debug\PrincipioSOLID.exe
+C:\Users\Lenovo\Desktop\Ejemplos-Csharp\PrincipioSOLID\bin\Debug\PrincipioSOLID.pdb
+C:\Users\Lenovo\Desktop\Ejemplos-Csharp\PrincipioSOLID\obj\Debug\PrincipioSOLID.exe
+C:\Users\Lenovo\Desktop\Ejemplos-Csharp\PrincipioSOLID\obj\Debug\PrincipioSOLID.pdb
